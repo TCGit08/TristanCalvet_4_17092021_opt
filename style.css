@@ -654,6 +654,15 @@ a {
     color: #575757!important;
 }
 
+li {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+a {
+    width: 100%;
+}
+
 .container {
     max-width: 1000px;
 }
